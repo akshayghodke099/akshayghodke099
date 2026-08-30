@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I specialize in **data collection, cleaning, prepr
 🚀 **Visit My:** [![Portfolio](https://img.shields.io/badge/Portfolio-Website-1A2A40?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akshayghodke099.github.io)
 
 > “Turning raw data into actionable insights.”
-[![Akshay Ghodke — Data Research Analyst](assets/Banner.gif)]
+![Akshay Ghodke — Data Research Analyst](assets/Banner.gif)]
 
 ## 📊 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=akshayghodke099&color=blue)
